@@ -1,0 +1,10 @@
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\bin\Debug\PasswortManager.exe.config
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\bin\Debug\PasswortManager.exe
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\bin\Debug\PasswortManager.pdb
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\obj\Debug\PasswortManager.csproj.AssemblyReference.cache
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\obj\Debug\PasswortManager.csproj.CoreCompileInputs.cache
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\obj\Debug\Passwort.3E26CD5F.Up2Date
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\obj\Debug\PasswortManager.exe
+C:\Users\fynnp\OneDrive - sluz\IPT8.1\PasswortManager\obj\Debug\PasswortManager.pdb
