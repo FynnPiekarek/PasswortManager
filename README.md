@@ -18,3 +18,10 @@ Eines der größten Probleme während der Entwicklung war der E-Mail-Versand. An
 
 Interessanterweise hatte ich die Gelegenheit, dieses Projekt fast ein Jahr später im Rahmen meines Französischunterrichts vorzustellen. Es war eine spannende Erfahrung, das Projekt noch einmal Revue passieren zu lassen und zu reflektieren, wie ich seitdem als Entwickler gewachsen bin. Diese Vorstellung ist auch wieder einige Monate her und da ich diesen Sommer in Frankreich bei der Familie von meiner Freundin verbrachte, konnte ich mein Französisch um einiges verbessern.
 
+## Setup
+
+Um diese Applikation zu starten gibt es ein paar abänderungen die getätigt werden müssen.
+
+- Eine gültige gmx Adresse und das dazu gehörige Passwort angeben.
+- Das Newtonsoft NuGet Packet zu installieren.
+- Abhängige Pathes abändern.
