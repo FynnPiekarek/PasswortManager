@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fynnp\\OneDrive - sluz\\IPT8.1\\PasswortManager\\",
+  "WorkspaceRootPath": "C:\\Users\\fynnp\\OneDrive\\Dokumente\\github\\PasswortManager\\PasswortManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA6138D-131F-49B1-8877-FE4672716CB5}|PasswortManager.csproj|c:\\users\\fynnp\\onedrive - sluz\\ipt8.1\\passwortmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECA6138D-131F-49B1-8877-FE4672716CB5}|PasswortManager.csproj|c:\\users\\fynnp\\onedrive\\dokumente\\github\\passwortmanager\\passwortmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA6138D-131F-49B1-8877-FE4672716CB5}|PasswortManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fynnp\\OneDrive - sluz\\IPT8.1\\PasswortManager\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fynnp\\OneDrive\\Dokumente\\github\\PasswortManager\\PasswortManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\fynnp\\OneDrive - sluz\\IPT8.1\\PasswortManager\\Program.cs",
+              "ToolTip": "C:\\Users\\fynnp\\OneDrive\\Dokumente\\github\\PasswortManager\\PasswortManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJ4CAAAAAAAAAADwv6cCAAAoAAAA",
+              "ViewState": "AQIAAGwDAAAAAAAAAAAqwHwDAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T13:09:39.929Z",
               "EditorCaption": ""

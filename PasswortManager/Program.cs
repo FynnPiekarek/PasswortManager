@@ -889,8 +889,8 @@ class Program
         // GMX-E-Mail-Einstellungen
         string gmxSmtpServer = "mail.gmx.com";
         int gmxSmtpPort = 587; // GMX SMTP-Port
-        string gmxEmail = "bbzw_authenticator@gmx.ch";
-        string gmxPassword = "bbzw_authenticator123";
+        string gmxEmail = "";
+        string gmxPassword = "";
 
         // Empfängerinformationen
         string toEmail = email;
