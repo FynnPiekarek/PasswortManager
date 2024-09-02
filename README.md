@@ -1,4 +1,6 @@
-a# Projekt-README
+# Passwort Manager
+
+Ein einfacher Passwort Manager, der es ermöglicht, sichere Passwörter zu generieren, zu speichern und zu verwalten. Diese Applikation entwickelte ich, um die Verwaltung von Passwörtern zu vereinfachen und die Sicherheit Ihrer Konten zu erhöhen. Alle Passwörter werden verschlüsselt gespeichert, um unbefugten Zugriff zu verhindern.
 
 ## Hintergrund
 
